@@ -1,0 +1,6 @@
+{
+  "name": "Realistic Prompt Engine",
+  "description": "Constraint-driven realistic image prompt engine with physical, spatial, and camera coherence validation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
